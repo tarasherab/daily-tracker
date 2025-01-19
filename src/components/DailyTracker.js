@@ -29,7 +29,7 @@ const DailyTracker = () => {
 
   return (
     <div className="w-full max-w-xl mx-auto p-6 bg-white rounded-lg shadow-xl border border-gray-200">
-      <h1 className="text-2xl font-bold mb-6 text-gray-900">Daily Activity Tracker</h1>
+      <h1 className="text-2xl font-bold mb-6 text-gray-900">Daily Activity Tracker v2</h1>
       
       <form onSubmit={handleAddActivity} className="flex gap-4 mb-6">
         <input
